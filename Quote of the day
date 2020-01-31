@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+	<title>First page</title>
+</head>
+	<body style='font-family:Arial' bgcolor= 'pink'>
+		<h1 align='center'>Quote Of The Day</h1>
+		<hr size='3' color=black />
+		<p><i><b>It's only after you have stepped outside</b></i></p>
+		<p><i><b>comfort zone that you begin to change,grow and transfrom</b></i></p>
+		<p align='right'>Be <del>Negative</del> Positive !!!</p>
+		<p align='right'> <big>Live</big> Life !!!! </p>
+	</body>
+</head>
+</html>
