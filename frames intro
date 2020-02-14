@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>HTML Frames</title>
+</head>
+<frameset cols="50%,50%">
+		<frame src="https://www.google.com">
+		<frame src="/home/Sem6B7/Desktop/20171cse0422/Quote of the day">
+		<frame src="/home/Sem6B7/Desktop/List Intro">
+	</frameset>
+	<frameset rows="30%,30%,30%">
+		<frame src="/home/Sem6B7/Desktop/20171cse0422/Quote of the day">
+		<frame src="/home/Sem6B7/Desktop/List Intro">
+		<frame src="/home/Sem6B7/Desktop/20171cse0422/Quote of the day">
+	</frameset>
+</frameset>
