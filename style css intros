@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div p {
+	background-color: yellow;
+	text-align: center;
+}
+</style>
+</head>
+<body>
+<div>
+	<p>paragraph 1 in the div.</p>
+	<p>paragraph 2 in the div.</p>
+	<h1><p><b><i>paragraph 3 in the div.</i></b></p></h1>
+</div>
+<p>paragraph 5 in the div</p>
+<p>paragraph 6 in the div</p>
+
+</body>
+</html>

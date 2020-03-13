@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>group Selectors</title>
+	<style>
+	
+		* {
+			text-align: red;
+			color: black;
+			background-color: red;
+			font-size: 200%;
+		}
+	
+	</style>
+</head>
+<body>
+</body>
+</html>
+
+
+
+	<p id="center"> rahul renegade<sup>©</sup> - last heir of the house targaryen </p>
+

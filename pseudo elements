@@ -1,0 +1,56 @@
+<html>
+<head>
+<style>
+a:link,a:visited{
+	background-color:white;
+	color:white;
+	padding:14px 25px;
+	text-align:center;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	border:5px solid black;
+	font-family:helvetica rounded;
+	font-size:200%;
+	}
+a:hover,a:active{
+	background-color:#3f3a38;
+	font-size:300%;
+	font-weight:bold;
+	}
+p:hover{
+display:block;
+font-size:200%;
+	}
+p::first-letter{
+	color:red
+	}
+p::first-line{
+	color:black;
+	}
+p::before{
+	content: url(/home/Sem6B7/Desktop/logo.png);
+	}
+p::after{
+	content: url(/home/Sem6B7/Desktop/logo.png);
+	opacity:0.8;
+	}
+
+</style>
+</head>
+<body bgcolor=#3f3a38  >
+</br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a  href="https://www.oneplus.in/">HOME</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+
+<a  href="https://www.oneplus.in/redcableclub">CONTACT</a></hr>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+
+<a  href="https://forums.oneplus.com/?from=head">ABOUT US</a></hr>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<div>
+<p>im a bad bad bad boy</p>
+<p>im a bad bad bad boy</p>
+<p>im a bad bad bad boy</p>
+<p>im a bad bad bad boy</p>
+<p>im a bad bad bad boy</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+<head>
+	<title>First page</title>
+</head>
+<body style='font-family:Arial' bgcolor= 'white'>
+<table  width='100%'>
+<tr>
+<td style="background-color:blue;">
+<marque>
+<h1>Presidency University</h1>
+</marque>
+</td>
+</td>
+</table>
+<table  width='100%'>
+	<tr>
+		<td style="background-color:green;">
+		<p>
+		<b>Btech courses</b>
+		<ul>
+			<li>mechanical</li>
+			<li>civil</li>
+			<li> computer science</li>
+			<ol>
+				<li>cse</li>
+				<li>ise</li>
+				<li>COM</li>
+	`		</ol>
+			<li>Electronics</li>
+			<li>Petroleums</li>
+			<li>Electrical</li>
+		</ul>
+		</p>
+		</td>
+		</tr>
+		<td style='background-color:yellow'>
+		<center>
+		<b><u><h1>Welcome to <b><font color="red">Cse</font> Dept</h1></u></b>
+		</center>
+		<p>Departmenrt of computer science has three batches of students</p>
+		<p>
+		<ol type="I">
+			<li>8<sup>th</sup>sem</li>
+			<li>6<sup>th</sup>sem</li>
+			<li>4<sup>th</sup>sem</li>
+		</ol>
+		</p>
+		</td>
+		<td>
+		<p align="justify"><font color="black">
+		INTERNET TECHONOLGY COURSER</p>
+		<p> this course introcudces students to basic web design using Hype text markup language(HTML 5) and cascading style sheets(CSS)</p>
+		<a href=download>download cousrte handout</a>
+		</td>
+		</tr>
+		</table>
+		<hr>
+		<table style="background-color:green; width:100%">
+		<tr>
+		<td>
+		<center>
+		</center>
+		</td>
+		</tr>
+		</table>
+		<table width="100%"; border="1">
+		<tr>
+		<td>
+		<center>
+		<table style="border:spx solid blue;">
+		<caption>8<sub>th</sub>sem</caption>
+		<tr style="bg-color:green;width:100%;border:1px solid blue;border-collapse:collapse;">
+		<td style="border:2px solid black;border-collapse:no-collapse;">
+		123...</td>
+		<td style="border:2px solid black;border-collapse:no-collapse;">
+		456</td>
+		</tr>
+		<tr>
+		<td>
+		789
+		</td>
+		<tr style="bg-color:green;width:100%;border:1px solid blue;border-collapse:collapse;">
+		<td style="border:2px solid black;border-collapse:no-collapse;">
+		123...</td>
+		<td style="border:2px solid black;border-collapse:no-collapse;">
+		456</td>
+		</tr>
+		<td>1023</td>
+		</tr>
+		</table>
+		</center>
+		</td>
+		<td>
+		<p>
+		Email:<a href:mullakurub1999@gmail.com>
+		<img src:></img>
+		</p>
+		</td>
+		</tr>
+		</table>
+		<table width='100'>
+		<tr>
+		<td style="background-color:red">
+		<center>
+		<p>8 copy;PU ban</p>
+		</center>
+		</td>
+		</tr>
+		</table>
+		
+</body>
+</html>

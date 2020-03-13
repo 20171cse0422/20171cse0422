@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>The swing is right</title>
+<style>
+.big{background-color:cyan;
+font-size:3em;
+font-style:italic;
+font-family: sans-serif;
+font-stretch:ultra-expanded;
+font-weight:bolder;}
+</style>
+</head>
+<body>
+<p class="big" style="color:black;">111</p>
+<p1 class="big" style="color:black;">111</p>
+<p1 class="big" style="color:black;">111</p>
+<p1 class="big" style="color:black;">111</p>
+</body>
+</html>
+

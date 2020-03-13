@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+	<title>List</title>
+</head>
+	<body bgcolor= 'biege'>
+ 	<div style="background-image: url('/home/Sem6B7/Desktop/2.jpg')"> 
+		<a href="https://en.wikipedia.org/wiki/HTML #mw-page-base"><img src="/home/Sem6B7/Desktop/2.jpg" 			alt="click here" align="right" height="250" width="500" border="s"/></a>
+		<h1 align='center' style="Color:Blue">Unordered List:</h1>
+		<ul type='square' align='left'>
+			<li>item1</li>
+			<li type='circle'>item1</li>
+			<li>item1</li>
+			<li>item1</li>
+			<li>item1</li>
+		</ul>
+		<h1 align='center' style="Color:Blue">Ordered List:</h1>
+		<ol type="I",start='3' align='center'>
+			<li>item1</li>
+			<li>item1</li>
+			<li>item1</li>
+			<li>item1</li>
+			<li>item1</li>
+		</ol>
+		<h1  align='center' style="Color:Blue">Table:</h1>
+		<table border='5' width='50%' align='center' cellpadding='5' BorderColor='black'>
+		<tr>
+			<th colspan='2'> </th>
+			<th style='Color:red' colspan='3'>Column 1 Header</th>
+			<th style='Color:red' colspan='3'>Column 2 Header</th>
+		</tr>
+		<tr>
+			<td colspan='3'>Ramesh</td>
+			<td colspan='2'>Row 1,Col 1</td>
+			<td colspan='2'>Row 1,Col 2</td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td colspan='3'> Suresh</td>
+			<td colspan='2'>Row 2,Col 1</td>
+			<td colspan='2'>Row 2,Col 2</td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td colspan="8" align='center'>row3 cell1</td>
+		</tr>
+		</table>
+		<h1 align='center' style="Color:Blue">Definition List:</h1>
+		<DL align='center'>
+			<DT style="Color:Red">HTML:</DT>
+			<DD>HYPER TEXT MARKUP LANGUAGE</DD>
+			<DD>The worst language</DD>
+			<DD>Don't even use it</DD>
+			<DT style="Color:Red">DOG:</DT>
+			<DD>humasn best friend</DD>
+			<DD>use this one</DD>
+			<DD>This is really helpful</DD>
+		</DL>
+		<h1 align='center' style="Color:Blue">Safety tips for:</h1>
+		<ol type="a",start='1'>
+			<li>Be able to swim</li>
+			<li>Waer alife jacket at all times</li>
+			<li>Dont stand up or move around.If canoe tips,</li>
+				<ul TYPE='SQUARE'>
+					<li>hang on to the canoe</li>
+					<li id="table">use the conoe for the support and</li>
+					<li>Swim to the shore</li>
+				</ul>
+			<li>Dont overetxt urself</li>
+			<li>Use a bow light at night</li>
+		</ol>
+	</body>
+</html>
+			
+		
+	
+

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSS child selector</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+div > p {
+	background-color: green;
+	text-align: center;
+	color: white;
+	padding: 2px;
+}
+</style>
+</head>
+<body style="text-align: center;">
+<div>
+	<h2 style="color:green;">CSS Child selector</h2>
+	<p>A computer science portal</p>
+</div>
+<p>paragraph 5 in the div</p>
+<p>paragraph 6 in the div</p>
+
+</body>
+</html>

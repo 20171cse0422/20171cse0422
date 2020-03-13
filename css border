@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>css border</title>
+<style>
+p.dashed{
+border-style:dashed;
+}
+p.solid{
+border-style:solid;
+}
+p.groove{
+border-style:groove;
+}
+p.ridge{
+border-style:ridge;
+}
+p.inset{
+border-style:inset;
+}
+p.outset{
+border-style:outset;
+}
+p.hidden{
+border-style:hidden;
+}
+</style>
+
+</head>
+<body>
+<p class="dashed">this is a sentence</p>
+<p class="solid">this is a sentence</p>
+<p class="groove">this is a sentence</p>
+<p class="inset">this is a sentence</p>
+<p class="outset">this is a sentence</p>
+<p class="hidden">this is a sentence</p>
+</body>
+</html>
+

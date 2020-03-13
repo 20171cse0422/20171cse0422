@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+	<title>Resume</title>
+</head>
+	<body style='font-family:Arial' bgcolor= 'skyblue'>
+		<h1 style="line-height:0.9"  align='left'>M.Rahul</h1>
+		<p  style="line-height:0.4">Email: <a href="mailto:mullakurub1999@gmail.com">mullakurub1999@gmail.com</a></p>
+		<p style="line-height:0.4">phono: +91 8919575632</p>
+		<hr size='3' color=black />
+		<h2 align='left'>CV Highlights:</h2>
+		<ul>
+`		  	<li>Highlight1</li>
+		   	<li>Highlight2</li>
+`		   	<li>Highlight3</li>
+		</ul>
+		<h2 align='left'>Professional Experience</h2>
+		<ul>
+`			<li>highlight1</li>
+			<li>highlight2</li>
+`			<li>highlight3</li>
+		</ul>
+		<h3 align='left'>Technical Skills</h3>
+		<ul>
+`			<li><b style="color:brown">Operating Skills:</b>is simply dummy text of the printing and typesetting industry.</li>
+			<li><b style="color:brown">Application Software:</b>is simply dummy text of the printing and typesetting industry.</li>
+`			<li><b style="color:brown">Operating Skills:</b>is simply dummy text of the printing and typesetting industry.</li>
+		</ul>
+		<p><i><b>It's only after you have stepped outside</b></i></p>
+		<p><i><b>comfort zone that you begin to change,grow and transfrom</b></i></p>
+		<p align='right'>Be <del>Negative</del> Positive !!!</p>
+		<p align='right'> <big>Live</big> Life !!!! </p>
+	</body>
+</head>
+</html>0

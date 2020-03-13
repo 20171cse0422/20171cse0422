@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>Document Title</title>
+</head>
+<body>
+	<h1 style="background-color:DodgerBlue;">Hello World</h1>
+	<p style="background-color:Tomato;">Presidnecy University</p>
+	<h1 style="color:Tomato">Hello World</h1>	
+	<p style="background-color:Tomato;">School of engineering</p>
+	<p style="background-color:T23omato;">Computer science engineering</p>
+	<h1 style="background-color:DodgerBlue;">ECE</h1>	
+	<h1 style="background-color:DodgerBlue;">EEE</h1>	
+	<h1 style="background-color:rgba(200,99,15,0.4">Hello World</h1>	
+	<h1 style="background-color:DodgerBlue;">Hello World</h1>	
+	<h1 style="background-color:DodgerBlue;">Hello World</h1>
+</body>	
+

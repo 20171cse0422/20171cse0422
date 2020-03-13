@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>Document Title</title>
+<style>
+h1{color:#ff0000}
+h2{background-color:#6AF}
+h3{color:rgb(50%,50%,50%)}
+h4{color:rgb(0,0,255)}
+h5{color:teal}
+</style>
+</head>
+<body style="font-size:200%;background-image:url('/home/Sem6B7/Desktop/mae-mu-4BcZ6a5iIbU-unsplash.jpg');">
+<h1>Rahul</h1>
+<h2>Renegade</h2>
+<h3>Last</h3>
+<h4>Heir</h4>
+<h5>of the house targereyan</h5>
+</body>
+</html>
+

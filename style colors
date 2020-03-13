@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>Document Title</title>
+</head>
+<body style="background-image:url('/home/Sem6B7/Downloads/theregisti-HSXIp58yPyI-unsplash.jpg');background-position:5px 100px">
+	<h1 style="color:Blue;">Hello World</h1>
+	<p style="color:red">Presidnecy University</p>
+	<h1 style="font-family:verdana">Hello World</h1>	
+	<p style="font-family:courier">School of engineering</p>
+	<h1 style="font-size:300%">Computer science engineering</h1>
+	<p style="font-size:160%">ECE</p>	
+	<h1 style="text-align:center">EEE</h1>	
+	<p style="text-align:center">Hello World</p>	
+	<p style="font-size:160%">&lt;tag&gt;&amp;&quot;welcome&quot;&lt;tag&gt;	
+	<p style="font-size:160%">Hello World</p><br /><br /><br /><br />
+<p  style="font-size:300%;text-align:right">Rahul Renegade&reg;</p>
+</body>	
+

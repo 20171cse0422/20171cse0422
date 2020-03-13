@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Class Selectors</title>
+	<style>
+		.center{
+			text-align: center;
+			color: red;
+		}
+		p.large{
+			font-size: 300%;
+		}
+	</style>
+</head>
+<body>
+	<p class="center large">This paragraph will be red and big in size and center aligned </p>
+	<p class="center">This paragraph will be red and big in size and center aligned </p>
+	<p class=" large">This paragraph will be red and big in size and center aligned </p>
+</body>
+</html>
+
+

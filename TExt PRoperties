@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Text Properties</title>
+<style>
+.big{background-image:url("/home/Sem6B7/Desktop/mae-mu-4BcZ6a5iIbU-unsplash.jpg");
+background-color:cyan;
+color:red;
+direction:ltr;
+letter-spacing: 1px;
+word-spacing:5px;
+text-indent:1cm;
+font-size:300%;
+text-decoration:purple wavy overline;
+text-transform:uppercase;
+text-shadow:20px 20px 20px green;
+text-align:right;
+}
+</style>
+</head>
+<body class="big">
+<p class="big" style="color:black;text-shadow:8px 8px 8px purple;text-decoration:line-through;">this illustrates overline</p>
+<p1 class="big" style="color:black;text-decoration:underline;">rahul</p>
+<p1 class="big" style="color:black;">neat</p>
+<p1 class="big" style="color:black;">king</p>
+</body>
+</html>
+
